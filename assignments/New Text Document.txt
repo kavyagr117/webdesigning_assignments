@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> "images"</title>
+</head>
+<body>
+<img src="C:\Users\HP\Desktop"width="600"
+height="400">
+</img>
+<body>
+<html>
